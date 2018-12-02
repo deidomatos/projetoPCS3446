@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543776331 source:c:\users\david\desktop\projeto - pcs3446\sistema operacional - pcs3446\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<iomanip>
+	<list>
+	<vector>
+	<queue>
+	<dirent.h>
+	<stdlib.h>
+	<fstream>
+
